@@ -33,7 +33,7 @@ The topology simulates a real-world corporate environment with:
 
 | File | Description |
 |---|---|
-| `Detyre_3.pkt` | Cisco Packet Tracer project file — open with Packet Tracer 8.0+ |
+| `company network.pkt` | Cisco Packet Tracer project file — open with Packet Tracer 8.0+ |
 
 ---
 
